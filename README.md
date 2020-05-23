@@ -1,2 +1,1 @@
-# rn-practise
-react native practise
+# Webpack Practise
